@@ -1,4 +1,4 @@
-# ml-and-dl-practices
+# Machine Learning and Deep Learning Practices
 
 ###  Data transformation
 [Power Transformation](https://feaz-book.com/numeric-yeojohnson) <br>
